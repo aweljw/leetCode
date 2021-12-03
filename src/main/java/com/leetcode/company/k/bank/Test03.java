@@ -1,6 +1,6 @@
-package com.leetcode.company.kb;
+package com.leetcode.company.k.bank;
 
-public class Test06 {
+public class Test03 {
   public static void main(String[] args) {
     solution();
   }

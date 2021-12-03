@@ -1,4 +1,4 @@
-package com.leetcode.company.kb;
+package com.leetcode.company.k.bank;
 
 import java.io.IOException;
 import java.util.Scanner;

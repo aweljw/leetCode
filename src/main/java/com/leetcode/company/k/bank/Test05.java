@@ -1,4 +1,4 @@
-package com.leetcode.company.kb;
+package com.leetcode.company.k.bank;
 
 public class Test05 {
   public static void main(String[] args) {
